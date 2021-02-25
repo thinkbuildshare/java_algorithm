@@ -6,6 +6,7 @@ import java.util.Arrays;
 /**
  * @Author hxchen
  * @Date 2021/2/25
+ * yes
  */
 public class BubbleSort {
     public static void main(String[] args) {
